@@ -276,10 +276,10 @@ enableGitInfo = false
   url = "#projects"
   weight = 3
 
-#[[menu.main]]
-#  name = "Photography"
-#  url = "#photography"
-#  weight = 4
+[[menu.main]]
+name = "Photography"
+url = "#photography"
+weight = 4
 
 [[menu.main]]
   name = "vitae"
